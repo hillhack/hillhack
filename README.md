@@ -1,8 +1,7 @@
 <div align="center">
 
-# Hi, I'm Jyoti 👋
-
-**Data Science · AI/ML · LLMs & AI Agents · Python**  
+# Hi, 👋
+Data Science · AI/ML · LLMs & AI Agents · Python  
 *Teaching machines to learn like humans.*
 
 [GitHub](https://github.com/hillhack) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jyoti-s-18a5532b1/) &nbsp;·&nbsp; [Email](mailto:2jyotihill@gmail.com)
